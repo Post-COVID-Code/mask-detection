@@ -1,5 +1,7 @@
 # mask-detection 
 Software to detect mask on humans.
+Drive for link -> https://drive.google.com/drive/folders/1C-Txbm0GpqHGNwtzhki03stadbqQTBVc?usp=sharing
+Dataset taken from -> https://github.com/prajnasb
 
 In this README:
 
